@@ -1,3 +1,9 @@
+---
+title: Terms of Service
+layout: page
+permalink: /terms/
+---
+
 # Terms of Service for Press Tracker
 
 **Effective Date: August 9, 2025**  
@@ -266,3 +272,4 @@ BY USING PRESS TRACKER, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVIC
 © 2025 Press Tracker. All rights reserved.
 
 Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
